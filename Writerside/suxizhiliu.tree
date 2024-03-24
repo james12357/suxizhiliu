@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="suxizhiliu"
+                 name="《溯溪之流》"
+                 start-page="Contents.md">
+    <toc-element topic="Contents.md"/>
+    <toc-element topic="Main-Content.md">
+        <toc-element topic="I-时空隧道.md"/>
+        <toc-element topic="II-恍惚明暗.md"/>
+        <toc-element topic="III-法师塔初途.md"/>
+        <toc-element topic="IV-你是谁？.md"/>
+    </toc-element>
+    <toc-element topic="Fanwai.md">
+        <toc-element topic="冕下的生日.md"/>
+    </toc-element>
+    <toc-element topic="其他文章.md">
+        <toc-element topic="生命的色彩穿透云霄.md"/>
+    </toc-element>
+    <toc-element topic="Credits.md"/>
+    <toc-element topic="人物出场表.md"/>
+    <toc-element topic="versions.md"/>
+    <toc-element topic="end-of-all.md" hidden="true"/>
+    <toc-element topic="Default-topic.md" hidden="true"/>
+    <toc-element topic="chapter-template.md" hidden="true"/>
+    <toc-element topic="general-libs.md" hidden="true"/>
+    <toc-element topic="彩蛋.md" hidden="true"/>
+</instance-profile>
