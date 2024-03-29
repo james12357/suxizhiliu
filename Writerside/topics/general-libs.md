@@ -28,6 +28,7 @@
 | 林豫         |    | [I 时空隧道](I-时空隧道.md#chapter-1-start)       |
 | 温泽         |    | [I 时空隧道](I-时空隧道.md#chapter-1-start)       |
 | 江琛         |    | [I 时空隧道](I-时空隧道.md#chapter-1-start)       |
+| 文在否        |    | [I 时空隧道](I-时空隧道.md#chapter-1-start)       |
 | 文知白        |    | [III 法师塔初途](III-法师塔初途.md#chapter-3-start) |
 | Right      |    | [IV 你是谁？](IV-你是谁？.md#chapter-4-start)     |
 
