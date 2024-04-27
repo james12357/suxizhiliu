@@ -9,6 +9,11 @@ env:
   INSTANCE: 'Writerside/suxizhiliu'
   ARTIFACT: 'webHelpSUXIZHILIU2-all.zip'
   DOCKER_VERSION: '241.15989'
+  ALGOLIA_ARTIFACT: 'webHelpSUXIZHILIU2-all.zip'
+  ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
+  ALGOLIA_APP_NAME: 'NZKNMTB0WM'
+  CONFIG_JSON_PRODUCT: 'suxizhiliu'
+  CONFIG_JSON_VERSION: '1.0'
 
 jobs:
   build:
