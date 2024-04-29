@@ -7,6 +7,10 @@
         <variables>
             <noindex-content>true</noindex-content>
             <offline-docs>true</offline-docs>
+            <algolia-id>NZKNMTB0WM</algolia-id>
+            <algolia-index>rolling_sxizhiliu</algolia-index>
+            <algolia-api-key>6bc8fe663c8960a3cec8f0bc51886a4e</algolia-api-key>
+            <web-root>https://suxizhiliu.jamesproxy.online</web-root>
         </variables>
     </build-profile>
     <build-profile instance="suxizhiliu">
