@@ -37,6 +37,7 @@ jobs:
           path: |
             artifacts/${{ env.ARTIFACT }}
             artifacts/report.json
+            artifacts/${{ env.ALGOLIA_ARTIFACT }}
           retention-days: 7
   test:
     needs: build
@@ -61,7 +62,7 @@ jobs:
     - name: Download artifact
       uses: actions/download-artifact@v4
       with:
-        name: algolia-indexes
+        name: docs
     - name: Unzip artifact
       run: |
         ls
