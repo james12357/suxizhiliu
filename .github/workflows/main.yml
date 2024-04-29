@@ -9,7 +9,7 @@ env:
   INSTANCE: 'Writerside/suxizhiliu'
   ARTIFACT: 'webHelpSUXIZHILIU2-all.zip'
   DOCKER_VERSION: '241.15989'
-  ALGOLIA_ARTIFACT: 'algolia-indexes-SUXIZHILIU.zip'
+  ALGOLIA_ARTIFACT: 'webHelpSUXIZHILIU2-all.zip'
   ALGOLIA_KEY: '5ef69302207b5195e6ebd882e78a47c0'
   ALGOLIA_INDEX_NAME: 'rolling_suxizhiliu'
   ALGOLIA_APP_NAME: 'NZKNMTB0WM'
