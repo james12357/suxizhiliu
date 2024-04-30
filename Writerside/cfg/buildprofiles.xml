@@ -16,7 +16,6 @@
     <build-profile instance="suxizhiliu">
         <variables>
             <offline-docs>false</offline-docs>
-            <noindex-content>true</noindex-content>
             <algolia-id>NZKNMTB0WM</algolia-id>
             <algolia-index>rolling_suxizhiliu</algolia-index>
             <algolia-api-key>6bc8fe663c8960a3cec8f0bc51886a4e</algolia-api-key>
