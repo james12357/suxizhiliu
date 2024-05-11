@@ -25,6 +25,12 @@
 </tip>
 </snippet>
 
+<snippet id="not-finished-yet">
+<note>
+    <p>文章尚未完成。</p>
+</note>
+</snippet>
+
 **记得复制表格！！！**
 
 |            | 真名 | 第一次出场                                     |

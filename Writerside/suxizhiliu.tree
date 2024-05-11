@@ -14,6 +14,9 @@
     </toc-element>
     <toc-element topic="Fanwai.md">
         <toc-element topic="冕下的生日.md"/>
+        <toc-element topic="24年的钟声.md">
+            <toc-element topic="钟声-I.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="其他文章.md">
         <toc-element topic="生命的色彩穿透云霄.md"/>
