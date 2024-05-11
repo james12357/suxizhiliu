@@ -14,7 +14,9 @@
         </variables>
     </build-profile>
     <build-profile instance="suxizhiliu">
+        <sitemap priority="0.35" change-frequency="monthly"/>
         <variables>
+            <noindex-content>false</noindex-content>
             <offline-docs>false</offline-docs>
             <algolia-id>NZKNMTB0WM</algolia-id>
             <algolia-index>rolling_suxizhiliu</algolia-index>

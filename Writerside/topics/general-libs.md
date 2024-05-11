@@ -19,6 +19,12 @@
 </warning>
 </snippet>
 
+<snippet id="slightly-changed-format">
+<tip>
+    <p>为符合排版稍作修改，不影响原文。</p>
+</tip>
+</snippet>
+
 **记得复制表格！！！**
 
 |            | 真名 | 第一次出场                                     |
