@@ -8,7 +8,7 @@
 ## 正文
 {id="chapter-f-24-1-content"}
 
-<tooltip term="unk">@前情回顾</tooltip>。
+<tooltip term="b-1-at">@前情回顾</tooltip>。
 
 雪花纷纷在皇宫外飘酒着，氤氲的雾气缭绕在窗前，早晨的露水也滴落在窗外覆盖的雪松枝干上。沈沨正在房内梳妆台前仔细地梳平着发尾微卷处，门外传来阵阵敲门声。
 
