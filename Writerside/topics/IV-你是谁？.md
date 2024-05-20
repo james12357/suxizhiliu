@@ -3,12 +3,12 @@
 ## 人物出场表 
 {collapsible="true" default-state="collapsed"}
 
-|                 | 真名 | 第一次出场                               |
-|-----------------|----|-------------------------------------|
-| 沈沨              |    | [I 时空隧道](I-时空隧道.md#chapter-1-start) |
-| 吕行州(James)      |    | [I 时空隧道](I-时空隧道.md#chapter-1-start) |
-| [简诗蕾的男神](彩蛋.md) |    | 本章                                  |
-| 温泽              |    | [I 时空隧道](I-时空隧道.md#chapter-1-start) |
+|                | 真名 | 第一次出场                               |
+|----------------|----|-------------------------------------|
+| 沈沨             |    | [I 时空隧道](I-时空隧道.md#chapter-1-start) |
+| 吕行州(James)     |    | [I 时空隧道](I-时空隧道.md#chapter-1-start) |
+| [Right](彩蛋.md) |    | 本章                                  |
+| 温泽             |    | [I 时空隧道](I-时空隧道.md#chapter-1-start) |
 
 ## 正文
 {id="chapter-4-content"}

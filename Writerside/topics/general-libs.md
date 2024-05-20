@@ -31,6 +31,19 @@
 </note>
 </snippet>
 
+<snippet id="not-from-original-author">
+<note>
+    <p>这篇文章并非出自原作者之手，但经过原作者的认可。</p>
+    <p>更多信息请见<a href="Credits.md">制作人员名单</a>。</p>
+</note>
+</snippet>
+
+<snippet id="deprecated">
+<note>
+    <p>此页面已经弃用。</p>
+</note>
+</snippet>
+
 **记得复制表格！！！**
 
 |            | 真名 | 第一次出场                                     |
