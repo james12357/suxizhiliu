@@ -1,4 +1,13 @@
 # Contents
+
+<note>
+    <p>Archived / 已归档</p>
+</note>
+
+<note>
+    <a href="站长的信.md">站长有话要说</a>
+</note>
+
 [正文](Main-Content.md "来看正文！")
 
 [番外](Fanwai.md "还没看够？")
@@ -11,6 +20,6 @@
 
 [版本历史记录](versions.md)
 
-Version: 0.1.3
+Version: 0.1.4
 
-2024-5-20
+2024-8-23
