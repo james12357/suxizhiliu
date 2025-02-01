@@ -2,9 +2,15 @@
 
 <note>建议访问<a href="https://other-things.pages.dev">当前版本</a>。</note>
 
+###### 0.1.5
+此次更新包括：
+- 重构了[主页](Contents-new.md)。
+
 ###### 0.1.4
 此次更新包括：
 - [站长有话要说](站长的信.md)
+
+访问：[溯溪之流 0.1.4](https://7838bdab.other-things.pages.dev/)
 
 ###### 0.1.3
 此次更新包括：

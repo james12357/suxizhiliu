@@ -4,8 +4,8 @@
 
 <instance-profile id="suxizhiliu"
                  name="《溯溪之流》"
-                 start-page="Contents.md">
-    <toc-element topic="Contents.md"/>
+                 start-page="Contents-new.md">
+    <toc-element topic="Contents-new.md"/>
     <toc-element topic="站长的信.md"/>
     <toc-element topic="Main-Content.md">
         <toc-element topic="I-时空隧道.md"/>
@@ -34,4 +34,5 @@
     <toc-element topic="general-libs.md" hidden="true"/>
     <toc-element topic="彩蛋.md" hidden="true"/>
     <toc-element topic="彩蛋-old2.md" hidden="true"/>
+    <toc-element topic="Contents.md" hidden="true"/>
 </instance-profile>

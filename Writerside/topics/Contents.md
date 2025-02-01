@@ -1,4 +1,4 @@
-# Contents
+# Contents（旧）
 
 <note>
     <p>Archived / 已归档</p>
@@ -20,6 +20,8 @@
 
 [版本历史记录](versions.md)
 
-Version: 0.1.4
+[回到新版](Contents-new.md)
+
+Version: %version%
 
 2024-8-23
