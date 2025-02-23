@@ -2,9 +2,16 @@
 
 <note>建议访问<a href="https://other-things.pages.dev">当前版本</a>。</note>
 
+###### 0.1.6
+此次更新包括：
+- 增加了[](V-星砂之瞳.md)。
+- ~~聘请了 Deepseek R1 作为专属签约写手。~~
+
 ###### 0.1.5
 此次更新包括：
 - 重构了[主页](Contents-new.md)。
+
+访问：[溯溪之流 0.1.5](https://c89d9739.other-things.pages.dev)
 
 ###### 0.1.4
 此次更新包括：

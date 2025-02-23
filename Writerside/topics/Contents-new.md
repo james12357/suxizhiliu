@@ -14,9 +14,9 @@
 </primary>
 <secondary>
 <title>其他信息</title>
-<a href="其他文章.md" summary="是一个人写的，仅此而已。"></a>
-<a href="//" summary="很显然这个选项不可用。">催更</a>
-<a href="versions.md" summary="版本 %version% 构建于 2025/2/1"></a>
+<a href="其他文章.md" summary=""></a>
+<a href="//" summary="很显然这个选项不可用。2025/2/23更新：现在可以催更 Deepseek 了。">催更</a>
+<a href="versions.md" summary="版本 %version% 构建于 2025/2/23"></a>
 </secondary>
 </section-starting-page>
 

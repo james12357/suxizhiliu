@@ -10,4 +10,8 @@
         <description>Created after removal of "Contents" from 《溯溪之流》</description>
         <accepts>Contents.html</accepts>
     </rule>
+    <rule id="670f3a63">
+        <description>Created after removal of "Writerside_chapter-template" from 《溯溪之流》</description>
+        <accepts>Writerside-chapter-template.html</accepts>
+    </rule>
 </rules>
